@@ -1,10 +1,7 @@
-Screenshots
----------------------
 
-<img width="600" alt="project-preview" src="https://github.com/adriiiiiix/shopping-time/assets/88784785/62d9e49f-d9af-45b3-831b-51bcf19b2733">
 
-# Shopping Time
-Shopping Time is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. You can choose various attributes like size and color. There is a cart where you can see added items and edit, add, or remove them. You can also set a currency of your choice.
+# Women Shop
+Women Shop is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. You can choose various attributes like size and color. There is a cart where you can see added items and edit, add, or remove them. You can also set a currency of your choice.
 
 ## Functionality Overview
 Below is a comprehensive overview of the functionalities that the website offers:
